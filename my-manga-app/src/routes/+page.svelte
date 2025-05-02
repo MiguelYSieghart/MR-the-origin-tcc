@@ -198,10 +198,10 @@
           <p class="text-white text-opacity-90">Lorem ipsum dolor sit amet. Qui sint dolores et recusandae commodi ut voluptate velit id optio suscipit ea dolores ipsum.</p>
         </div>
         <div class="flex space-x-4">
-          <a href="/cadastro" class="bg-white text-red-600 hover:bg-gray-100 px-6 py-3 rounded-md font-bold transition-colors">
+          <a href="./login" class="bg-white text-red-600 hover:bg-gray-100 px-6 py-3 rounded-md font-bold transition-colors">
             Cadastrar
           </a>
-          <a href="/login" class="bg-transparent border-2 border-white text-white hover:bg-white hover:text-red-600 px-6 py-3 rounded-md font-bold transition-colors">
+          <a href="./login" class="bg-transparent border-2 border-white text-white hover:bg-white hover:text-red-600 px-6 py-3 rounded-md font-bold transition-colors">
             Entrar
           </a>
         </div>
